@@ -97,7 +97,12 @@
             "prettier.singleQuote": true,
             "prettier.trailingComma": "all",
         ```
-9.
+9. Node
+    - `brew update`
+    - `brew install node`
+    
+10. Yarn
+    - 
     
 
 
