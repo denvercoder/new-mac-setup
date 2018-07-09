@@ -52,6 +52,32 @@
         `git config --global credential.helper osxkeychain`
 8. VS Code
     - I like to get the Insiders Edition but it's up to you. (Note: I've had problems with both Insiders and Normal VSCode installed so I don't do both anymore.)
+    - Extensions I use:
+        - Debugger for Chrome - Microsoft
+        - Material Icon Theme - Philipp Kief
+        - Prettier - Esben Petersen
+        - Git History - Don Jayamanne
+        - Intellisense for CSS Class Names - Zignd
+        - Auto Close Tag - Jun Han
+        - markdownlint - David Anson
+        - Project Manager - Alessandro Fragnani
+        - Settings Sync - Shan Khan
+        - Markdown All in One - Yu Zhang
+        - Sass - Robin Bentley
+        - Auto Rename Tag - Jun Han
+        - Bookmarks - Alessandro Fragnani
+        - ES7 React/Redux/GraphQL/React-Native Snippets - dsznajder
+        - Import Cost - Wix
+        - Path Autocomplete - Mihai Vilcu
+        - GraphQL for VSCode - Kumar Harsh
+        - WakaTime - WakaTime
+        - gitignore - CodeZombie
+        - Sort lines - Daniel Imms
+        - indent-rainbow - oderwat
+        - VS Color Picker - lihui
+        - Cobalt2 Theme Official - Wes Bos
+        - Rainbow Brackets - 2gua
+9.
     
 
 
