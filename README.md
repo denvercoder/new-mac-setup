@@ -17,4 +17,5 @@
         - Features > Clipboard: Check "Keep Plain Text", "Keep Images", "Keep File Lists"
 4. Homebrew
     - First get command line tools for Xcode installed
-        - Run the following command in your terminal ~xcode-select --install~
+        - Run the following command in your terminal `xcode-select --install`
+        - enter this in the terminal and hit enter: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
