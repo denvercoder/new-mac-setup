@@ -5,7 +5,6 @@
 1. Browsers
     - Chrome
     - FireFox Developer Edition
-
 2. iTerm 2
     - Setup your preferences however you like.
 3. Alfred
@@ -52,7 +51,8 @@
     - If you would like to use your Mac keychain with git run:
         `git config --global credential.helper osxkeychain`
 8. VS Code
-    - 
+    - I like to get the Insiders Edition but it's up to you. (Note: I've had problems with both Insiders and Normal VSCode installed so I don't do both anymore.)
+    
 
 
 
