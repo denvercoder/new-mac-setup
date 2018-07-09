@@ -7,7 +7,7 @@
 2. iTerm 2
     - 
 3. Alfred
-    - (Optional) I like to use CMD + Space to activate so you need to turn off that key combo for spotlight.
-      - System Preferences > Keyboard > Spotlight
-        - Uncheck the two checkboxes
-    
+    -   (Optional) I like to use CMD + Space to activate so you need to turn off that key combo for spotlight.
+      -     System Preferences > Keyboard > Spotlight
+      -     Uncheck the two checkboxes
+    -       
