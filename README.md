@@ -102,7 +102,8 @@
     - `brew install node`
     
 10. Yarn
-    - 
+    - `brew install yarn --without-node`
+11. 
     
 
 
