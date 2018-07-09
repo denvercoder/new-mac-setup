@@ -39,7 +39,18 @@
         - `curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_prompt`
         - `curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.aliases`
         - If you are using iTerm close it and open it or open a new tab with CMD + T and see in color!
-
+7. Git
+    - `brew install git`
+    - change to home directory: `cd ~`
+    - download the following gitconfig: 
+        `curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.gitconfig`
+    - setup your user.name and user.email:
+        `git config --global user.name "Your Name Here"`
+        `git config --global user.email "your_email@youremail.com"`
+    - If you would like to use your Mac keychain with git run:
+        `git config --global credential.helper osxkeychain`
+8. VS Code
+    - 
 
 
 
