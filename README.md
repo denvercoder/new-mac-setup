@@ -18,4 +18,5 @@
 4. Homebrew
     - First get command line tools for Xcode installed
         - Run the following command in your terminal `xcode-select --install`
-        - enter this in the terminal and hit enter: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+        - enter this in the terminal and hit enter: 
+            `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
