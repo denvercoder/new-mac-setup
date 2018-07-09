@@ -77,6 +77,26 @@
         - VS Color Picker - lihui
         - Cobalt2 Theme Official - Wes Bos
         - Rainbow Brackets - 2gua
+    - Settings:
+        ```
+            "workbench.colorTheme": "Cobalt2",
+            "workbench.iconTheme": "material-icon-theme",
+            "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
+            "editor.fontSize": 18,
+            "editor.lineHeight": 25,
+            "editor.letterSpacing": 0.5,
+            "files.trimTrailingWhitespace": true,
+            "editor.fontWeight": "400",
+            "prettier.eslintIntegration": true,
+            "prettier.printWidth": 80,
+            "editor.cursorStyle": "line",
+            "editor.cursorWidth": 2,
+            "editor.cursorBlinking": "phase",
+            "editor.renderWhitespace": "all",
+            "prettier.semi": false,
+            "prettier.singleQuote": true,
+            "prettier.trailingComma": "all",
+        ```
 9.
     
 
