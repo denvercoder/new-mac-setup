@@ -1,5 +1,5 @@
-# new-mac-setup
-# This is how I like to setup my mac for JavaScript based Front-End Development
+
+## This is how I like to setup my mac for JavaScript based Front-End Development
     This is just a guide I made for myself, feel free to use it but at your own risk.
 
 1. Browsers
